@@ -1,7 +1,7 @@
 require File.expand_path('../lib/jstree/rails/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = 'jstree-rails'
+  s.name        = 'js-tree-rails'
   s.version     = Jstree::Rails::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = 'Tristan McHardie'
