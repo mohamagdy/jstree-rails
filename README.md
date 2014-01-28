@@ -6,7 +6,7 @@ Makes including jsTree in Rails 3.1 projects a breeze.
 
 Add the following line to your Gemfile:
 
-    gem 'jstree-rails', :git => 'git://github.com/tristanm/jstree-rails.git'
+    gem 'js-tree-rails'
 
 then run `bundle install` and restart your app.
 
